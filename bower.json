@@ -1,8 +1,8 @@
 {
-  "name": "js-xlsx",
-  "homepage": "https://github.com/TheRev433/js-xlsx",
+  "name": "xlsx-plus",
+  "homepage": "https://github.com/TheRev433/xlsx-plus",
   "main": "dist/xlsx.js",
-  "version": "0.8.11",
+  "version": "0.1",
   "ignore": [
     "bin",
     "bits",
